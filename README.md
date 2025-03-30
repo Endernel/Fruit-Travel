@@ -12,7 +12,7 @@ This project was created as part of the "Web Technologies: Frontend" course. It 
 - Ability to book a consultation.
 - Interactive and stylish interface.
 
-## 🛠Technologies
+## Technologies
 - HTML, CSS, JavaScript
 
 ## 💌 Contact
